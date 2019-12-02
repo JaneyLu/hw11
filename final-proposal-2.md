@@ -1,15 +1,13 @@
-# Fairy dust bots
-
-Small arduino bots that are able to walk and carry candies.
+# Moving Creatures (basket robots)
+5 robots 
 
 ## Summary
 
-In the project I'm going to build up one or several fairt dust bot like the ones in Ghibili Studio, give them sensor and walkable feet that they can walk around and carry candies.
+I want to focus on interaction with little kids, and make a cute, car-like robot that can bring them happiness and also communicate with them. There will be many moving creatures surrounded by children, when they touch them, the creature will say different words such as “Hello” and “How are you” that expect children to answer and have some interaction.
 
 ## Component Parts
 
-Flurry layer; leg component; Arduino board; sensor code; walking code; Sensor; batteries; jiggly eyes;
-
+Arduino boards/ 4 DC motors / distance sensors/ light sensor/ shining LEDs/ battery/ basket body (decorated with different elements such as beads, fur, fabric, lights, etc)/ h bridge/ cardboard or poly bottom
 
 ## When your project is completed, you will then add the following sections:
 
@@ -18,8 +16,8 @@ Flurry layer; leg component; Arduino board; sensor code; walking code; Sensor; b
 What did you do in each of the past four weeks?
 
 - Week 1: Write Proposal, flush out initial code for your idea
-- Week 2:
-- Week 3:
+- Week 2: refine the idea and shop for the materials
+- Week 3: putting up the bots together
 - Week 4: Present!
  
 ## Challenges
