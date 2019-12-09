@@ -9,8 +9,6 @@ We want to focus on interaction with little kids, and make a cute, car-like robo
 
 Arduino boards/ 2 DC motors / distance sensors/ battery pack/ basket body (decorated with different elements such as beads, fur, fabric, lights, etc)/ h bridge motor shields/ cardboard or poly bottom/ 4 wheels
 
-## When your project is completed, you will then add the following sections:
-
 ## Timeline
 
 What did you do in each of the past four weeks?
