@@ -1,5 +1,5 @@
 # Market Gard Bots
-2 robots 
+2 robots with cute aesthetics that move on their own and interact with the surroundings.
 
 ## Summary
 
